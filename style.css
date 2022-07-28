@@ -36,6 +36,13 @@
     width: 90%;
 }
 
+/* course section */
+.course-top{
+    margin-top: 100px;
+}
+
+
+/* footer section */
 .fa-brands{
     padding: 10px;
     margin: 0 8px;
@@ -48,3 +55,4 @@
         border-radius: 50%;
         background-color: #242424;
  }
+
