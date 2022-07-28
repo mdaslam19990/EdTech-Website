@@ -1,24 +1,14 @@
-.header-bg-color {
-    background-color: #FFF9F4;
-}
-
-.navbar-brand {
-    width: 279px;
+.text-light-color{
+    color: #4A4A4A;
 }
 
 .me-left-auto {
     margin-left: auto !important;
 }
 
-.carousel-image {
-    background-image: url("./images/cover/cover-1.png");
+.margin-top-style{
+    margin-top: 81px;
 }
-
-.carousel-style {
-    position: absolute;
-    top: 30%;
-}
-
 .carousel-caption {
     bottom: initial;
     top: 50%;
