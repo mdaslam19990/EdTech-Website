@@ -10,11 +10,33 @@
     margin-left: auto !important;
 }
 
-.carousel-image{
+.carousel-image {
     background-image: url("./images/cover/cover-1.png");
 }
 
-.carousel-style{
-    position:absolute;
+.carousel-style {
+    position: absolute;
     top: 30%;
 }
+
+.carousel-caption {
+    bottom: initial;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* @media only screen and (max-width: 600px) {
+    .display-1{
+        font-size: 1.5rem;
+    }
+
+    .para{
+        font-size: 15px;
+        line-height: 1;
+        margin-top: -4px;
+    }
+    .btn{
+        margin-bottom: 100px;
+    }
+} */
+
