@@ -40,3 +40,14 @@
     }
 } */
 
+.fa-brands{
+    padding: 10px;
+    border-radius: 50%;
+    background-color:#242424;
+}
+
+ .fa-solid{
+    padding: 10px;
+        border-radius: 50%;
+        background-color: #242424;
+ }
