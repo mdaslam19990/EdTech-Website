@@ -1,3 +1,6 @@
+
+
+/* header style add */
 .text-light-color{
     color: #4A4A4A;
 }
@@ -6,15 +9,24 @@
     margin-left: auto !important;
 }
 
+/* slider style add */
 .margin-top-style{
     margin-top: 81px;
 }
+
+.carousel-height{
+    Filter: brightness(50%)
+}
+
 .carousel-caption {
     bottom: initial;
     top: 50%;
     transform: translateY(-50%);
 }
 
+.width-style{
+    width: 80%;
+}
 /* @media only screen and (max-width: 600px) {
     .display-1{
         font-size: 1.5rem;
